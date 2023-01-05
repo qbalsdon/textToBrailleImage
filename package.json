@@ -1,0 +1,26 @@
+{
+  "name": "text.to.braille",
+  "version": "1.0.0",
+  "description": "Convert text to a Braille image",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qbalsdon/textToBrailleImage.git"
+  },
+  "keywords": [
+    "Braille",
+    "Text-Conversion"
+  ],
+  "author": "Quintin Balsdon",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/qbalsdon/textToBrailleImage/issues"
+  },
+  "homepage": "https://github.com/qbalsdon/textToBrailleImage#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
